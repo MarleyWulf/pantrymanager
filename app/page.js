@@ -233,7 +233,7 @@ export default function Home() {
         </Stack>
         <Box display="flex" sx={{ padding: "5px" }}>
           <Stack
-            // key={name}
+            key={name}
             width="600px"
             height="400px"
             overflow={"auto"}
