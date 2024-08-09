@@ -246,7 +246,7 @@ export default function Home() {
               ({ name, quantity }) => (
                 // {pantry.map(({ name, quantity }) => (
 
-                <MenuList>
+                <MenuList key={name}>
                   <MenuItem key={name}>
                     <ListItemIcon
                       onClick={() => {
