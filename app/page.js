@@ -24,8 +24,8 @@ import {
   doc,
   setDoc,
 } from "firebase/firestore";
-import FloatingActionButtons from "./components/ButtonIcons";
-import SearchIcon from "@mui/icons-material/Search";
+// import FloatingActionButtons from "./components/ButtonIcons";
+// import SearchIcon from "@mui/icons-material/Search";
 import AddIcon from "@mui/icons-material/Add";
 import RemoveIcon from "@mui/icons-material/RemoveCircle";
 import DeleteOutlineIcon from "@mui/icons-material/DeleteOutline";
